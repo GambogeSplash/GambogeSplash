@@ -12,9 +12,9 @@ In every case, the design problem is the same: how do you give people genuine vi
 
 | Project | What it does |
 |---------|-------------|
-| [**AEGIS**](https://github.com/gambogesplash/aegis) | Oversight interface for autonomous DeFi agents — guardrails, planning preview, override controls |
-| [**Dockhive**](https://github.com/gambogesplash/dockhive) | Deployment UX + geographic node visibility for distributed infrastructure operators |
-| [**ACM**](https://github.com/gambogesplash/acm) | CHLZ ETF trading platform — 6 modules, zero chart impact from OTC trades |
+| [**AEGIS**](https://github.com/gambogesplash/aegis) | Oversight interface for autonomous DeFi agents — 80+ agents, $12M+ overseen |
+| [**Dockhive**](https://github.com/gambogesplash/dockhive) | Deployment UX for distributed infrastructure — 1.2K+ nodes, 40+ operators |
+| [**ACM**](https://github.com/gambogesplash/acm) | CHLZ ETF trading platform — $25M+ volume, zero slippage OTC |
 | [**Necter**](https://github.com/gambogesplash/necter) | Block explorer + mining app store for an OP-Stack L2 — 142+ mining apps, 6 novel explorer modules |
 | [**Wayfinder**](https://github.com/gambogesplash/wayfinder) | Agent-driven treasury for creator coins on Base — $250K+ TVL, 2K+ users |
 | [**Meko Protocol**](https://github.com/gambogesplash/meko) | Payment infra for robots and machines — ERC-4337 wallets on Base |
