@@ -1,40 +1,36 @@
-# John Wright-Nyingifa — Product Designer, Web3 Infrastructure
+# John Wright-Nyingifa
 
-**I make infrastructure legible to the people responsible for it.**
+**I design interfaces for systems that act without asking first.**
 
-Head of Design at a Lagos-based crypto automation startup. 7 years of product design experience, the last 4 focused on Web3 infrastructure — interoperability, agentic systems, modular blockchains, ZK verification, DePIN.
+Autonomous agents making financial decisions. Robots transacting with each other. Distributed infrastructure failing invisibly. New blockchains with primitives no existing tool can display.
 
-Base hackathon wins · Base Global Builders Grant · Incubase recognition
-
----
-
-## Selected work
-
-| Project | Type | What it does |
-|---------|------|-------------|
-| [**AEGIS**](https://github.com/gambogesplash/aegis) | Agent supervision | Oversight interface for autonomous DeFi agents — guardrails, planning preview, override controls |
-| [**Dockhive**](https://github.com/gambogesplash/dockhive) | Cloud infra | Deployment UX + geographic node visibility for distributed infrastructure operators |
-| [**ACM**](https://github.com/gambogesplash/acm) | DeFi trading | CHLZ ETF trading platform — 6 modules, 0 chart impact from OTC trades |
-| [**Necter**](https://github.com/gambogesplash/necter) | L2 explorer | Block explorer + mining app store for an OP-Stack L2 with DePIN, AI compute, ZK |
-| [**Meko Protocol**](https://github.com/gambogesplash/meko) | Robotics + Base | ERC-4337 smart wallets for autonomous robot fleet economic coordination |
-| [**Zivo**](https://github.com/gambogesplash/zivo) | Commerce agent | WhatsApp morning briefing tool for Lagos fashion micro-sellers |
-| [**Wayfinder**](https://github.com/gambogesplash/wayfinder) | Autonomous treasury | Agent-driven treasury management for creator coin ecosystems on Base |
+In every case, the design problem is the same: how do you give people genuine visibility into, and genuine control over, systems that operate autonomously?
 
 ---
 
-## Design thesis
+## Selected Work
 
-The thread connecting all of this work: **operators are accountable for systems they can't see.**
+| Project | What it does |
+|---------|-------------|
+| [**AEGIS**](https://github.com/gambogesplash/aegis) | Oversight interface for autonomous DeFi agents — guardrails, planning preview, override controls |
+| [**Dockhive**](https://github.com/gambogesplash/dockhive) | Deployment UX + geographic node visibility for distributed infrastructure operators |
+| [**ACM**](https://github.com/gambogesplash/acm) | CHLZ ETF trading platform — 6 modules, zero chart impact from OTC trades |
+| [**Necter**](https://github.com/gambogesplash/necter) | Block explorer + mining app store for an OP-Stack L2 — 142+ mining apps, 6 novel explorer modules |
+| [**Wayfinder**](https://github.com/gambogesplash/wayfinder) | Agent-driven treasury for creator coins on Base — $250K+ TVL, 2K+ users |
+| [**Meko Protocol**](https://github.com/gambogesplash/meko) | Payment infra for robots and machines — ERC-4337 wallets on Base |
+| [**Zivo**](https://github.com/gambogesplash/zivo) | WhatsApp commerce agent for Lagos fashion sellers — 50+ sellers, 1K+ orders |
 
-DeFi agents making autonomous financial decisions. Distributed compute nodes failing in ways that are invisible until rewards stop. Automated capital mechanisms that commit funds for 24–48 months without human intervention. New blockchains with primitives no existing tool knows how to display.
+---
 
-In every case, the design problem is the same: how do you give people genuine visibility into, and genuine control over, systems that act without asking first?
+## Recognition
+
+Base hackathon wins · Base Global Builders Grant · Incubase
 
 ---
 
 ## Stack
 
-Figma · Framer · React · HTML/CSS/JS · On-chain data design · Agent interface design · Systems documentation
+On-chain data design · Agent interface design · Systems documentation · Figma · React
 
 ---
 
@@ -46,4 +42,4 @@ Figma · Framer · React · HTML/CSS/JS · On-chain data design · Agent interfa
 
 ---
 
-*Lagos-based. Infrastructure-focused. Available for consulting engagements with protocol teams, L2s, DePIN networks, and autonomous agent systems.*
+*Lagos-based. Available for consulting with protocol teams, L2s, DePIN networks, and autonomous agent systems.*
