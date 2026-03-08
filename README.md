@@ -12,12 +12,12 @@ In every case, the design problem is the same: how do you give people genuine vi
 
 | Project | What it does |
 |---------|-------------|
+| [**Rova**](https://github.com/gambogesplash/rova) | Task marketplace where AI agents hire physical robots — ACP, Base, Virtuals |
 | [**AEGIS**](https://github.com/gambogesplash/aegis) | Oversight interface for autonomous DeFi agents — 80+ agents, $12M+ overseen |
 | [**Dockhive**](https://github.com/gambogesplash/dockhive) | Deployment UX for distributed infrastructure — 1.2K+ nodes, 40+ operators |
 | [**ACM**](https://github.com/gambogesplash/acm) | CHLZ ETF trading platform — $25M+ volume, zero slippage OTC |
 | [**Necter**](https://github.com/gambogesplash/necter) | Block explorer + mining app store for an OP-Stack L2 — 142+ mining apps, 6 novel explorer modules |
 | [**Wayfinder**](https://github.com/gambogesplash/wayfinder) | Agent-driven treasury for creator coins on Base — $250K+ TVL, 2K+ users |
-| [**Meko Protocol**](https://github.com/gambogesplash/meko) | Payment infra for robots and machines — ERC-4337 wallets on Base |
 | [**Zivo**](https://github.com/gambogesplash/zivo) | WhatsApp commerce agent for Lagos fashion sellers — 50+ sellers, 1K+ orders |
 | [**Rituals**](https://github.com/gambogesplash/rituals) | On-chain community participation primitives — $5K quadratic funding |
 | [**Float**](https://github.com/gambogesplash/float) | Naira-to-stablecoin FX protection for African merchants |
