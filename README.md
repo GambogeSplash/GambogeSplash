@@ -1,50 +1,33 @@
 # John Wright-Nyingifa
 
-**I design interfaces for systems that act without asking first.**
+**Product designer who ships. I build interfaces for systems that act on their own.** Money that moves itself. Agents that decide. Infrastructure that fails quietly.
 
-Autonomous agents making financial decisions. Robots transacting with each other. Distributed infrastructure failing invisibly. New blockchains with primitives no existing tool can display.
+Seven years designing software, four of them in crypto and autonomous systems. I don't stop at the mockup. I build the thing, put it in front of real users, and design against what actually breaks.
 
-In every case, the design problem is the same: how do you give people genuine visibility into, and genuine control over, systems that operate autonomously?
-
----
-
-## Selected Work
-
-| Project | What it does |
-|---------|-------------|
-| [**Rova**](https://github.com/gambogesplash/rova) | Task marketplace where AI agents hire physical robots — ACP, Base, Virtuals |
-| [**AEGIS**](https://github.com/gambogesplash/aegis) | Oversight interface for autonomous DeFi agents — 80+ agents, $12M+ overseen |
-| [**Dockhive**](https://github.com/gambogesplash/dockhive) | Deployment UX for distributed infrastructure — 1.2K+ nodes, 40+ operators |
-| [**ACM**](https://github.com/gambogesplash/acm) | CHLZ ETF trading platform — $25M+ volume, zero slippage OTC |
-| [**Necter**](https://github.com/gambogesplash/necter) | Block explorer + mining app store for an OP-Stack L2 — 142+ mining apps, 6 novel explorer modules |
-| [**Wayfinder**](https://github.com/gambogesplash/wayfinder) | Agent-driven treasury for creator coins on Base — $250K+ TVL, 2K+ users |
-| [**Zivo**](https://github.com/gambogesplash/zivo) | WhatsApp commerce agent for Lagos fashion sellers — 50+ sellers, 1K+ orders |
-| [**Rituals**](https://github.com/gambogesplash/rituals) | On-chain community participation primitives — $5K quadratic funding |
-| [**Float**](https://github.com/gambogesplash/float) | Naira-to-stablecoin FX protection for African merchants |
-| [**Pythia**](https://github.com/gambogesplash/pythia) | Predictive analytics for on-chain market intelligence |
-| [**Interop Explorer**](https://github.com/gambogesplash/interop-explorer) | Visual interface for tracing cross-chain message paths |
-| [**Agent Delegation**](https://github.com/gambogesplash/agent-delegation) | Permission framework for multi-agent systems |
+The problem I keep returning to: when a system acts without asking first, how do you give a person real visibility into it, and real control over it?
 
 ---
 
-## Recognition
+## Shipped
 
-Base hackathon wins · Base Global Builders Grant · Incubase
-
----
-
-## Stack
-
-On-chain data design · Agent interface design · Systems documentation · Figma · React
-
----
-
-## Contact
-
-**Portfolio →** [johnw-n.com](https://johnw-n.com)
-**Twitter →** [@I_triple9](https://twitter.com/I_triple9)
-**Email →** john.wnyingifa@gmail.com
+| Project | What it is |
+|---------|-----------|
+| [**Florence**](https://florence-theta.vercel.app) | AI voice receptionist that closes the sale on the call. ElevenLabs and Stripe. |
+| [**Pythia**](https://pythia-somnia.vercel.app) | AI-resolved prediction markets. Same-transaction resolution, slashable agent stake, dispute routing. |
+| [**Dhow**](https://dhow-pi.vercel.app) | Stablecoin trade-finance rails. Onboarding, free-form payments, a real dispute path. [Code](https://github.com/GambogeSplash/dhow) |
+| [**Nappe**](https://github.com/GambogeSplash/nappe) | A design-engineering standard for Claude. Front-end and visual craft as an installable skill. |
+| [**Provenance**](https://provenance-art.vercel.app) | Immersive art-history gallery. 55 global traditions, real public-domain works, built in WebGL. |
 
 ---
 
-*Lagos-based. Available for consulting with protocol teams, L2s, DePIN networks, and autonomous agent systems.*
+## What I do
+
+On-chain and autonomous-agent interface design. Design-engineering, which for me means I write the React and TypeScript that ships, not just the Figma. Systems documentation. Figma to production.
+
+---
+
+## Elsewhere
+
+**Portfolio** · [johnw-n.com](https://johnw-n.com)
+**X** · [@I_triple9](https://x.com/I_triple9)
+**Email** · john.wnyingifa@gmail.com
